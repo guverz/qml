@@ -1,0 +1,4 @@
+module ex12
+typeinfo appex12.qmltypes
+prefer :/
+
