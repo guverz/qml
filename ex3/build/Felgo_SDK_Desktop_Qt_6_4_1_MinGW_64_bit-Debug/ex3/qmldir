@@ -1,0 +1,4 @@
+module ex3
+typeinfo appex3.qmltypes
+prefer :/
+

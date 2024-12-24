@@ -1,0 +1,4 @@
+module ex4
+typeinfo appex4.qmltypes
+prefer :/
+

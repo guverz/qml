@@ -1,0 +1,14 @@
+-rootPath
+E:/Workbench/qml/ex3
+-cmake-output
+-output-file
+E:/Workbench/qml/ex3/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appex3.cmake
+-importPath
+E:/Workbench/qml/ex3/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ex3
+-importPath
+E:/Workbench/qml/ex3/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+E:/QML/Felgo/mingw_64/./qml
+-qrcFiles
+E:/Workbench/qml/ex3/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_ex3.qrc
+E:/Workbench/qml/ex3/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_ex3_copy.qrc
