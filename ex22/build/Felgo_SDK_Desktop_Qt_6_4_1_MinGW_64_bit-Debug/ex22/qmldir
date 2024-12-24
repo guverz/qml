@@ -1,0 +1,4 @@
+module ex22
+typeinfo appex22.qmltypes
+prefer :/
+

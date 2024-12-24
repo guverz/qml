@@ -1,0 +1,4 @@
+module ex2
+typeinfo appex2.qmltypes
+prefer :/
+
