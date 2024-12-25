@@ -1,0 +1,4 @@
+module ex6
+typeinfo appex6.qmltypes
+prefer :/
+

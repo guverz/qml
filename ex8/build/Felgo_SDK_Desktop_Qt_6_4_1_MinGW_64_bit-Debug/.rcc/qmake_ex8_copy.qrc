@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/ex8">
+    <file alias="qmldir">E:/Workbench/qml/ex8/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ex8/qmldir</file>
+  </qresource>
+</RCC>
+

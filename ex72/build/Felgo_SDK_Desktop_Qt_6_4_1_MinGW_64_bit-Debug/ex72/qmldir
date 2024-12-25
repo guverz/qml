@@ -1,0 +1,4 @@
+module ex72
+typeinfo appex72.qmltypes
+prefer :/
+

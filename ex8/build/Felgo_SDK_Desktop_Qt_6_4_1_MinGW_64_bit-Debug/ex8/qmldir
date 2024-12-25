@@ -1,0 +1,4 @@
+module ex8
+typeinfo appex8.qmltypes
+prefer :/
+

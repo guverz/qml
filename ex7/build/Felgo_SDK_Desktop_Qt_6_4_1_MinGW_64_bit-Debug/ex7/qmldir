@@ -1,0 +1,4 @@
+module ex7
+typeinfo appex7.qmltypes
+prefer :/
+
