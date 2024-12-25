@@ -1,0 +1,4 @@
+module ex52
+typeinfo appex52.qmltypes
+prefer :/
+

@@ -1,0 +1,4 @@
+module ex51
+typeinfo appex51.qmltypes
+prefer :/
+
